@@ -1,0 +1,7 @@
+Nombre del restaurante: El fogon Restaurant
+Tipo de Menu: Gastronomico
+
+Bebidas:
+-Agua
+-Zumo
+-Bebidas Alcoholicas
