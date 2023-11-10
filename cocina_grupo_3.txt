@@ -5,3 +5,10 @@ Bebidas:
 -Agua
 -Zumo
 -Bebidas Alcoholicas
+
+
+Tipo de Menu 2: Mediterráneo
+
+Bebidas:
+- Cerveza
+- Vino
